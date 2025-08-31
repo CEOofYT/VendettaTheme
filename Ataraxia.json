@@ -23,13 +23,13 @@
           "#8A7675"
       ],
       "INTERACTIVE_NORMAL": [
-          "#f2d0cf"
+          "#ffffff"
       ],
       "INTERACTIVE_HOVER": [
-          "#BDA2A2"
+          "#F5E1E1"
       ],
       "INTERACTIVE_ACTIVE": [
-          "#CBA9A8"
+          "#FFD6D6"
       ],
       "INTERACTIVE_MUTED": [
           "#8A7675"
@@ -98,7 +98,7 @@
       ],
       
       "CHANNELS_DEFAULT": [
-          "#7C6766"
+          "#E8DCDC"
       ],
       "TEXT_LINK": [
           "#C2A8A7"
